@@ -1,1 +1,3 @@
 # Ali
+
+print("Salom bolajonlar!")
